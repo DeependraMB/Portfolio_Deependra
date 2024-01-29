@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/abc.jpg",
       "title": "React JS",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "React JS, a powerful front-end library, simplifies UI development with a component-based approach for building dynamic and interactive websites."
     },
     {
       "id": "2",
       "src": "./img/node2.jpg",
       "title": "Node JS",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Node JS, a server-side runtime, excels in scalability, offering a non-blocking I/O model for efficient, high-performance network applications."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
+      "src": "./img/mongodb.png",
       "title": "Mongo DB",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "MongoDB, a NoSQL database, provides flexibility in data storage with JSON-like documents, offering scalability and ease of integration."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/express2.png",
       "title": "Express JS",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Express JS, a minimalist web app framework for Node.js, streamlines development, making it ideal for creating robust and efficient web applications."
     }
   ],
   "portfolio": [
