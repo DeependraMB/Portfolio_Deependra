@@ -26,7 +26,7 @@ export default function MySkills() {
             href="https://git-scm.com/"
             target="_blank"
             rel="noreferrer"
-            style={{ marginLeft: "30px" }}
+            style={{ marginLeft: "40px" }}
             title="Git"
           >
             <img
